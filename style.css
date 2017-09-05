@@ -1,7 +1,7 @@
 table {
   height: 40%;
   left: 10%;
-  margin: 10px auto;
+  margin: 15px auto;
   overflow-y: scroll;
   position: static;
   width: 80%;
@@ -10,7 +10,7 @@ table {
 thead th {
  text-transform: uppercase;
  font-size: 14px;
- background: #20B2AA;
+ background: #88CCF1;
 }
 
 tbody th {
