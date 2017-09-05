@@ -1,3 +1,12 @@
+table {
+  height: 40%;
+  left: 10%;
+  margin: 10px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+}
+
 thead th {
  text-transform: uppercase;
  font-size: 14px;
