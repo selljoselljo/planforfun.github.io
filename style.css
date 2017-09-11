@@ -1,5 +1,6 @@
 body {
   font-family: helvetica;
+  background-color: floralwhite;
 }
 
 /* Table */
@@ -40,9 +41,20 @@ th, td {
 
 h2{
   align-self: center;
-  margin: 30px;
-  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 5px;
   text-align: center;
-  background-color: lightslategray;
+  background-color: slategray;
   padding: 10px 50px;
 }
+
+.body2 {
+  background-color: lightslategray;
+  margin-top: auto;
+  padding: 5px;
+}
+
+ul{;
+}
+
+
