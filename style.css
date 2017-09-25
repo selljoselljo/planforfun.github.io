@@ -61,7 +61,7 @@ h2{
   color: hsla(88, 100%, 27%, 0.79);
   margin-top: auto;
   padding: 5px;
-  font-family: 'Libre Barcode 39 Text', cursive;
+font-family: 'Architects Daughter', cursive;
 }
 
 ul{;
@@ -73,9 +73,9 @@ ul{;
 
 /* latin */
 @font-face {
-  font-family: 'Libre Barcode 39 Text';
+  font-family: 'Architects Daughter';
   font-style: normal;
   font-weight: 400;
-  src: local('Libre Barcode 39 Text Regular'), local('LibreBarcode39Text-Regular'), url(https://fonts.gstatic.com/s/librebarcode39text/v3/O4inMvtTcDsw_GI-nhT1ni2KyhR4Gp7Y4OQ1Ij1FzWuglnMp3_3A8V8Ai8YosRtX.woff2) format('woff2');
+  src: local('Architects Daughter Regular'), local('ArchitectsDaughter-Regular'), url(https://fonts.gstatic.com/s/architectsdaughter/v7/RXTgOOQ9AAtaVOHxx0IUBBoTIN0je7AiOLXaVBr1ByU.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
